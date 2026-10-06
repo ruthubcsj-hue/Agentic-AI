@@ -1,7 +1,0 @@
-sentence-transformers
-faiss-cpu
-pypdf
-groq
-arxiv
-requests
-numpy
